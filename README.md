@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Michelle Espinoza and I'm a computer systems engineer currently developing in Angular and Nuxt3.
+Hi, I'm Michelle Espinoza and I'm a computer systems engineer specializing in Software Analysis and Development, currently developing in Angular and Nuxt3.
 
 
 ## 🌐 Socials:
